@@ -13,4 +13,12 @@ int y= -9;
 
 int total= (+12) + (-9);
 
+//ıf two numbers with the same sign are added together, the sign does not change
+
+int k= -7;
+
+int m= -4;
+
+int total2= k+m;
+
 
