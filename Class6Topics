@@ -1,0 +1,16 @@
+
+
+
+//Effect of plus and minus sign on addition
+
+public static void main(String[] args) {
+
+//Considering unsigned, whichever number is greater, the result of the sum will be the sign of that number.
+
+int x= +12;
+
+int y= -9;
+
+int total= (+12) + (-9);
+
+
