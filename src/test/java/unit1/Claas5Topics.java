@@ -9,8 +9,13 @@ public class Claas5Topics {
         int b = 8;
 
         //Add the numbers a and b
-        int total= a+b;
+        int total = a + b;
         System.out.println(total);
+
+        //Subtract the smaller number from the larger number
+
+        int subtractResult = b - a;
+        System.out.println(subtractResult);
 
 
     }
