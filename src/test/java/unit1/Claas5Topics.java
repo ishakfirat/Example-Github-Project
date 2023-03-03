@@ -23,6 +23,12 @@ public class Claas5Topics {
         int subTotal = total + subtractResult;
         System.out.println(subTotal);
 
+        //multiply two numbers
+        int e= 5;
+        int f= 8;
+        int multiply= e*f;
+        System.out.println(multiply);
+
 
 
     }
