@@ -18,6 +18,19 @@ public class Claas5Topics {
         System.out.println(subtractResult);
 
 
+        //add two result from the upside math operations
+
+        int subTotal = total + subtractResult;
+        System.out.println(subTotal);
+
+        //multiply two numbers
+        int e= 5;
+        int f= 8;
+        int multiply= e*f;
+        System.out.println(multiply);
+
+
+
     }
 
 
